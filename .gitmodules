@@ -1,0 +1,3 @@
+[submodule "gmod-module-base"]
+	path = gmod-module-base
+	url = git://github.com/garrynewman/gmod-module-base.git
